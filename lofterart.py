@@ -8,7 +8,7 @@ import re
 import time
 
 MAXPAGE=184
-SPAGE=46
+SPAGE=1
 PATH='D:\\lofter\\'
 print PATH
 print SPAGE
